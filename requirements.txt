@@ -1,4 +1,5 @@
-streamlit_pandas_profiling
+pandas
 pycaret
-ydata_profiling
-
+streamlit
+ydata_profiling==4.3.0  
+phik==0.11.1 
