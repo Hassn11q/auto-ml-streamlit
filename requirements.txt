@@ -1,7 +1,4 @@
-pandas
 streamlit_pandas_profiling
 pycaret
-streamlit
-ydata_profiling
-phik==0.11.1
+
 
